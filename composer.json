@@ -23,8 +23,8 @@
         "symfony/var-dumper": "~3.0|~4.0",
         "vlucas/phpdotenv": "^5.5",
         "symfony/http-foundation": "~3.0|~4.0",
-        "nesbot/carbon": "~1.21",
-        "longman/ip-tools": "~1.1"
+        "nesbot/carbon": "^2.6",
+        "longman/ip-tools": "~1.2"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
